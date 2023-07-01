@@ -1,0 +1,82 @@
+{
+    "projects":[
+        {
+            "name":"Dino Game",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        },
+        {
+            "name":"Calender",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        },
+        {
+            "name":"BMI CONVERTER",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        },
+        {
+            "name":"Calculator",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        },
+        {
+            "name":"First Portfolio",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        },
+        {
+            "name":"Temperature Converter",
+            "Image":"",
+            "Description":"",
+            "netlify":"",
+            "github":""
+        }
+    ],
+
+    "Testimonials":[
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        },
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        },
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        },
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        },
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        },
+        {
+            "person":"",
+            "Testimonial":"",
+            "image":""
+        }
+    ],
+    "Resume":[
+        {"link":""}
+    ]
+}
