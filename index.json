@@ -1,6 +1,7 @@
 {
     "projects":[
         {
+            "id":"1",
             "name":"Dino Game",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
@@ -8,13 +9,15 @@
             "github":""
         },
         {
+            "id":"2",
             "name":"Calender",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
             "netlify":"",
             "github":""
         },
-        {
+        {    
+            "id":"3",
             "name":"BMI CONVERTER",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
@@ -22,20 +25,23 @@
             "github":""
         },
         {
+            "id":"4",
             "name":"Calculator",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
             "netlify":"",
             "github":""
         },
-        {
+        {    
+            "id":"5",
             "name":"First Portfolio",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
             "netlify":"",
             "github":""
         },
-        {
+        {    
+            "id":"6"
             "name":"Temperature Converter",
             "Image":"https://i.postimg.cc/4ys1Nm7n/Matrose-industries.jpg",
             "Description":"",
@@ -45,32 +51,38 @@
     ],
 
     "Testimonials":[
-        {
+        { 
+            "id":"1"
             "person":"Nuraan Samsodien",
             "Testimonial":"Mihlali is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has a great positive attitude and fantastic communication and leadership skills and any company would be lucky to have him on their team.",
             "image":"https://i.postimg.cc/ryDrVQbx/C12-C2-Nuraan-Samsodien-1.jpg"
         },
         {
+            "id":"2"
             "person":"Jason Barron",
             "Testimonial":" I have had the pleasure of working with many people, but you truly stand out as one of the best. Your dedication to your work is unparalleled, and your passion for achieving your goals is inspiring.I have seen firsthand how your attention to detail and commitment to excellence have led to incredible results. Whether you are working on a complex project or helping someone in need, you always bring your best self to the task at hand. Your ability to think critically and creatively allows you to find innovative solutions to any challenge that comes your way.",
             "image":"https://i.postimg.cc/LXv3bvWs/picture2.jpg"
         },
         {
+            "id":"3"
             "person":"Abdul-Azeez Kemp",
             "Testimonial":"Great guy, focused individual that knows what he wants, when he sets his mind to something, to a project, he sticks to that the he has planned out. Great team player, always assisting his peers but also keeping up with his own work.",
             "image":"https://i.postimg.cc/0jBssTQX/FB-IMG-1655905446197.jpg"
         },
         {
+            "id":"4"
             "person":"Thabang Kganana",
             "Testimonial":"Mihla is a hardworking person , who finds ways to improve his craft through perseverance. He is strong when it comes to solving and providing solutions to problems we may have in a group environment. Asking thought provoking questions that lead to him improving at an alarming rate at this institution. Great teamplayer and a leader.",
             "image":"https://i.postimg.cc/hP6G7tRG/C12-C2-Thabang-Kganana-1.jpg"
         },
         {
+            "id":"5"
             "person":"Imtiyaaz Damon",
             "Testimonial":"Mihlali's talent is undeniable. They have a natural ability to excel in their chosen field and consistently produce outstanding work.What sets Mihlali apart is their unwavering dedication and passion for their craft. They approach every project with enthusiasm and a relentless pursuit of excellence.I have no doubt that Mihlali will continue to make a significant impact in their field and leave a lasting legacy with their exceptional work. I wholeheartedly recommend Mihlali and feel privileged to have witnessed their talent and passion firsthand. ",
             "image":"https://i.postimg.cc/8krvK9ks/image-2.png"
         },
         {
+            "id":"6"
             "person":"Uthmaan Samsodien",
             "Testimonial":"Mihlali is a very determined being, always focused and wanting to get things done on time. This is an excellent trait to have as web developer as you will always be on par with deadlines. Mihlali is very good when working alone and even better when he is put into a group. He is always trying to upskill his self by asking questions or learning from his peers, this making him a very hard working being. He is very good in HTML and CSS. Mihlali is kind and is good with working with people.",
             "image":"https://i.postimg.cc/fLK8Hv4T/IMG-6957-1.jpg"
