@@ -119,6 +119,32 @@
             "type":"Life Choices Academy",
             "schooling":"As of 2023, I am actively enrolled in the Life Choices Coding Academy, where I am diligently pursuing comprehensive training in web development. Through this esteemed program, I am equipped with the necessary skills, knowledge, and practical experience to excel in this dynamic field."
         }
+    ],
+    "Skills":[
+        {
+            "id":"1",
+            "img":"https://i.postimg.cc/pTLgX0cH/1532556.png"
+        },
+        {
+            "id":"2",
+            "img":"https://i.postimg.cc/VsTxBPkr/663980.png"
+        },
+        {
+            "id":"3",
+            "img":"https://i.postimg.cc/1RLp984C/image-processing20210621-16554-hvvni2.png"
+        },
+        {
+            "id":"4",
+            "img":"https://i.postimg.cc/L6Ld6QBc/png-transparent-vue-js-hd-logo-thumbnail-removebg-preview.png"
+        },
+        {
+            "id":"5",
+            "img":"https://i.postimg.cc/rpqgCDky/bootstrap-logo-shadow.png"
+        },
+        {
+            "id":"6",
+            "img":"https://i.postimg.cc/Fzh9hg55/870442-applications-512x512.png"
+        },
     ]
     
 }
