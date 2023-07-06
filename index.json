@@ -105,17 +105,17 @@
     ],
     "Education":[
         {
-            "id":"1"
+            "id":"1",
             "type":"High School Education",
             "schooling":"In the year 2022, I successfully completed my secondary education, attaining a bachelor's pass as a testament to my academic accomplishments. With the acquisition of a bachelor's pass, I am now embarking on the next chapter of my educational and professional pursuits."   
         },
         {
-            "id":"2"
+            "id":"2",
             "type":"Young Biologist Course",
             "schooling":"In 2019, I had the privilege of attending a Young Biologist course at the aquarium, where I achieved a distinguished Diamond Certificate. This esteemed recognition symbolizes my exceptional performance and proficiency in the study of biology."
         },
         {
-            "id":"3"
+            "id":"3",
             "type":"Life Choices Academy",
             "schooling":"As of 2023, I am actively enrolled in the Life Choices Coding Academy, where I am diligently pursuing comprehensive training in web development. Through this esteemed program, I am equipped with the necessary skills, knowledge, and practical experience to excel in this dynamic field."
         }
