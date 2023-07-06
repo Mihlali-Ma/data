@@ -90,16 +90,16 @@
     ],
     "Resume":[
         {"link":"https://github.com/Mihlali-Ma/Calendar.git"}
-    ]
+    ],
     "Volunteer":[
         {
             "id":"1",
-            "type":"Volunteer"
+            "type":"Volunteer",
             "expirience":"In the year 2019, I had the privilege of engaging in voluntary service at the aquarium, where I dedicated my efforts both in the front of house, actively engaging with visitors, and behind the scenes."
         },
         {
             "id":"2",
-            "type":"volunteer"
+            "type":"volunteer",
             "expirience":"I willingly offered my services to engage in horticultural activities within a garden setting."
         }
     ]
